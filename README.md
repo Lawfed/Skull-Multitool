@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/989343573545746466/992133806070956183/f6e8ae71-3e3b-4018-a127-92324351dabd_rwc_0x0x3840x3002x3840.png">
+  <img src="https://cdn.discordapp.com/attachments/989343573545746466/992140609735368824/R__1_-removebg-preview.png">
 </p>
 
-<h1 align="center">[Lurking tool] - Multitool (V1.0.0)</h1>
+<h1 align="center">[Skull] - Multitool (V1.0.0)</h1>
 <p align="center">
   </a>
   <a href="https://www.python.org">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  [Discord] - Lurking is a tool Gathering for Windows systems written in Python.
+  [Discord] - Skull is a tool Gathering for Windows systems written in Python.
 </p>
 <p align="center">
   This Multitool has a total of about 60 commands to make your life on discord easier. It has a nice and intuitive interface to make it easy to use for everyone, help and explanations for each command, a very complete help command.
@@ -22,7 +22,7 @@
 
 ## Disclaimer
 
-|Multool was made for Educational purposes|
+|Skull was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using this Multitool, you agree that you hold responsibility and accountability of any consequences caused by your actions.
@@ -248,12 +248,11 @@ Launch the setup.exe file. A new file will be created. You will only have to lau
 #### 2nd・Installation (Manual installation)
 ```
 $ git clone https://github.com/RestMintzi/Lurking-Multitool.git
-$ cmd Lurking.exe
+$ cmd skull.exe
 ```
 
 ## Additional Informations
 General Informations:
-- If you have a problem, [CLICK HERE](https://github.com/RestMintzi/Lurking-Multitool) to watch the YouTube video.
 - If you find any malfunction, contact me on Discord: rest<3#8727
 
 
