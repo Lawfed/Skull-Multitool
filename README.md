@@ -247,7 +247,7 @@ Launch the setup.exe file. A new file will be created. You will only have to lau
 
 #### 2nd・Installation (Manual installation)
 ```
-$ git clone https://github.com/RestMintzi/Skull-Multitool.git
+$ git clone https://github.com/OpSkull/Skull-Multitool.git
 $ cmd Skull.exe
 ```
 
