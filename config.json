@@ -1,9 +1,0 @@
-"token": "TOKEN-HERE", 
-    "password": "PASSWORD-HERE", #Useful for some options
-    "prefix": "PREFIX-HERE",
-    
-    "nitro_sniper": true, #Can take the value: true or false
-    "giveaway_sniper": true, #Can take the value: true or false
-
-    "stream_url": "https://twitch.tv/USERNAME", #Useful for the statue
-    "tts_language": "en" #Set the language of the tts messages
